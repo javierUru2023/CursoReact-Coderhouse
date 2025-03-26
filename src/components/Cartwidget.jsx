@@ -1,9 +1,8 @@
 import React from 'react';
 import { Badge, Button } from 'antd';
-import { ShoppingCartOutlined } from '@ant-design/icons'; // Icono del carrito
-
+import { ShoppingCartOutlined } from '@ant-design/icons'; 
 const CartWidget = () => {
-  // Definir una cantidad hardcodeada
+
   const cantidad = 5;
 
   return (
